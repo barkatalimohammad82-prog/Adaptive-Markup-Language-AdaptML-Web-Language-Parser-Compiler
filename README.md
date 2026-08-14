@@ -1,4 +1,4 @@
-# AdaptML — Adaptive Markup Language
+# AdaptML — Adaptive Markup Lgic
 
 AdaptML is a custom web markup language that compiles `.adaptml` / `.aml` files into browser-ready HTML.
 
