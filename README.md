@@ -23,7 +23,7 @@ This project uses native browser JavaScript and requires no build step.
 ## Example
 
 ```xml
-<adaptml version="1.0">
+<adaptml version="9.0.0-beta.3">
   <app name="Hello AdaptML">
     <screen id="home">
       <text value="Welcome to AdaptML!" />
